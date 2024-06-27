@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+ .text-style{
+  font-size: poppins;
+ }
+.green-text{
+  color: #3A7778;
+}
+.text-stylee{
+  font-family: source serif pro;
+}
+.yellow-text{
+  color: #F5B963;
+}
+.bg-green{
+  background-color: #3A7778;
+}
+.light-black{
+  background-color: #2B3030;
+}
+.cyan-text{
+  color: #D7FFF1;
+}
+.light-bluebg{
+  background-color: #e3f3ed;
+}
+.bg-gray{
+  background-color: #596363;
+}
